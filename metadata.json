@@ -1,0 +1,6 @@
+{
+  "name": "TYAGI Labs — Independent Technology Studio",
+  "description": "TYAGI Labs builds modern websites, web applications, mobile apps, AI-powered experiences and custom digital products.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
